@@ -1,1 +1,2 @@
 - Report 1: [Project Introduction and Project Management Plan](https://docs.google.com/document/d/1rMaM_vQb2vd3jjTEpQApt0FvgCvrd19U9waDQiP5jUQ/edit?usp=sharing)
+- Report 2: [Project Data Preparation](https://docs.google.com/document/d/1a9VjXpoCCaAXPlS3oSOM5Vk4UHg0UiVZlLkf6XTUJWw/edit?usp=sharing)
